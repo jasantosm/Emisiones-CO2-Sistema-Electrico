@@ -6,7 +6,7 @@ email: ingjuliansantos@gmail.com
 
 A continuación se da un resumen del trabajo realizado.
 
-El análisis completo se encuentra en el notebook principal de este reposotorio.
+El análisis completo se encuentra en el notebook principal de este repositorio.
 
 ## **Objetivos de negocio y situación actual**
 
